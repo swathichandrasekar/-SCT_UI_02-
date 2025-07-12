@@ -16,6 +16,8 @@ Redesign the main reading screens to:
 
  🛠 Tools Used
 - Figma
+-🧩📢 You can see my project here
+https://www.figma.com/design/gbrMz5r6O4kdHLtmabwj7Q/Untitled?node-id=0-1&t=Wfz5HTOyiHEPkRBt-1
 
 📌 Status
 ✅ Completed and submitted
